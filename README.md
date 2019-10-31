@@ -10,3 +10,5 @@ Email | noah227@foxmail.com
 >  this program is to process the public ip derived from the http request to get a specific location information and
 >  then to log the information.
 ---
+
+    with basic funcitons only, no handler about exceptions, no erro logs yet.
